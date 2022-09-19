@@ -1,4 +1,4 @@
-# IB-U-Nets: Learning Robust Prostate Segmentation
+# IB-U-Nets: Learning Robust Organ Segmentation
 We created novel segmentation networks with 3D-IB on top of benchmark U-Net models. To provide an objective comparison between the established CNNs and ours, we created a pipeline that was used for training and testing all models. The repository consists of deep learning models that perform semantic segmentation of the prostate from MR images.
 
 We use the following metrics to evaluate the performance of the models (however, the paper uses only the first metric):
